@@ -60,6 +60,13 @@ body {
   font-weight: 400;
   margin-left: 2.5rem;
 }
+.navbar a:hover{
+  color: rgb(24, 10, 50);
+  border-bottom: 1px solid #FFFED8;
+}
+.navbar a:active{
+  color: rgba(83, 62, 122, 0.603);
+}
 #check {
   display: none;
 }
